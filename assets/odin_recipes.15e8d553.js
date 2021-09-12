@@ -1,1 +1,0 @@
-import"./modulepreload-polyfill.b7f2da20.js";import{R as e,a as l}from"./vendor.8f737d24.js";const t=()=>e.createElement("div",null,"ok00");l.render(e.createElement(e.StrictMode,null,e.createElement(t,null)),document.getElementById("root"));
